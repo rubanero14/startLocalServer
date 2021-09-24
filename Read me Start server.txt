@@ -1,0 +1,5 @@
+for Node.js: nodemon {file name + ext} eg: nodemon index.js {alternatively can use node index.js)
+
+for PHP Laravel: php run serve
+
+for Vue js: npm run serve / npm run watch

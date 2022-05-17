@@ -1,4 +1,4 @@
-# Start Develoment/Local Server
+# Start Development/Local Server
 ## Server-Side
 ### Node JS
 type in CLI -> <i>nodemon {file name + ext}</i> eg: <code>nodemon index.js</code> (alternatively can use <code>node index.js</code> or <code>npm run start</code> [after binding in package.json file])
